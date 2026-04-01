@@ -140,20 +140,4 @@ python src/evaluate.py
 
 - Clean separation between experimentation and production code
 
-## Model Artifacts
-
-Saved in `models/`:
-
-- `spam_classifier.pkl` → Trained Logistic Regression model
-
-- `tfidf_vectorizer.pkl` → TF-IDF feature transformer
-
-## Demo
-
-<h3 align="center">Vɪᴅᴇᴏ Dᴇᴍᴏ</h3>
-<p align="center">
-  <a href="https://res.cloudinary.com/doetqiwsa/video/upload/v1769078551/recording_2026-01-21T18-30-51-627Z_ytftqc.webm">
-    <img width="875" height="492" alt="Image" src="https://github.com/user-attachments/assets/00bd64e3-3850-4e19-b46d-1b3d6f9998e4" />
-  </a>
-</p>
 
